@@ -1,0 +1,12 @@
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.container img{
+    width: 125px;
+}
+
+main{
+    min-height: 120vh;
+}
+
