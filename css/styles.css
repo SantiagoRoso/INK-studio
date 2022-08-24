@@ -21,3 +21,7 @@ main h1, p{
 footer{
     min-height: 5vh;
 }
+
+.card-text{
+    color: black;
+}
