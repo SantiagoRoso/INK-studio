@@ -8,5 +8,16 @@
 
 main{
     min-height: 120vh;
+    background-image: url(../logo-nav.jpg);
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
 }
 
+main h1, p{
+    color: white
+}
+
+footer{
+    min-height: 5vh;
+}
