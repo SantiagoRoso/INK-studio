@@ -14,7 +14,7 @@ main{
     background-size: cover;
 }
 
-main h1, p{
+.main h1, p{
     color: white
 }
 
